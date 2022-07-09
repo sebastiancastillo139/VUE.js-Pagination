@@ -1,24 +1,5 @@
-# proyectotabo
+# Vue.js  - Pagination
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a example of how implement a pagination in a VUE 3 project using just JavaScript and Bootstrap (for the component)
